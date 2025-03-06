@@ -6,12 +6,6 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a> &nbsp;
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a> &nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a> &nbsp;
@@ -23,9 +17,6 @@
   </a> &nbsp;
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a> &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -54,9 +45,9 @@
 
 - 💬 Ask me about **Networking, IoT, Cybersecurity, and Machine Learning**  
 
-- 📫 How to reach me **jyothindrapallikonda@gmail.com**  
+- 💌 How to reach me **jyothindrapallikonda@gmail.com**  
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y3eWB2EzP1JDINUK4MCM6gUsdAAWD0yJ/view?usp=sharing)  
+- 📝 Know about my experiences [Resume](https://drive.google.com/file/d/1Y3eWB2EzP1JDINUK4MCM6gUsdAAWD0yJ/view?usp=sharing)  
 
 - ⚡ Fun fact **I started tinkering with computers at a young age, and my fascination with their inner workings has only grown stronger!**  
 
