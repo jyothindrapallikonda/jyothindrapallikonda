@@ -1,48 +1,36 @@
-### Hi there 
+<h1 align="center">Hi 👋, I'm Jyothindra Pallikonda</h1>
+<h3 align="center">A cybersecurity aficionado and AIML-driven problem solver from India</h3>
 
-I'm Jyothindra Pallikonda, a highly motivated Computer Science Engineering student with a passion for Ethical Hacking, Machine Learning, and Cybersecurity. 
-Currently, I'm pursuing my B.Tech at Sagi Rama Krishnam Raju Engineering College (CGPA: 8.46) and actively seeking opportunities to leverage my skills and knowledge in these exciting fields.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothindrapallikonda&label=Profile%20views&color=0e75b6&style=flat" alt="jyothindrapallikonda" /> </p>
 
-** I'm currently working on:**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyothindrapallikonda" alt="jyothindrapallikonda" /></a> </p>
 
-* **Machine Learning and Cyber Security Projects:** I'm constantly exploring new applications particularly in the areas of anomaly detection and threat prediction.
+- 🔭 I’m currently working on Research Problems in Intrsuion Detection **NON-IOC Detection Via Network Datasets**
 
-** I'm currently learning:**
+- 🌱 I’m currently learning **Ethical Hacking**
 
-* Staying updated on the latest advancements in Ethical Hacking and Cybersecurity best practices.
-* Deepening my knowledge of various Machine Learning algorithms and their applications.
+- 👯 I’m looking to collaborate on **AIML,Cyber Security Projects**
 
-** I'm looking to collaborate on:**
+- 🤝 I’m looking for help with **Open Source Projects**
 
-* Innovative projects that utilize Machine Learning for real-world problem solving.
-* Collaborative efforts to strengthen cybersecurity postures and develop advanced threat detection systems.
+- 💬 Ask me about **Networking,IOT,cyersecurity and machine learning**
 
-** Ask me about:**
+- 📫 How to reach me **jyothindrapallikonda@gmail.com**
 
-* My experiences in data science and cybersecurity internships.
-* Emerging trends in Ethical Hacking and Machine Learning.
-* My passion for computer technology and its potential impact.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Y3eWB2EzP1JDINUK4MCM6gUsdAAWD0yJ/view?usp=sharing](https://drive.google.com/file/d/1Y3eWB2EzP1JDINUK4MCM6gUsdAAWD0yJ/view?usp=sharing)
 
-** How to reach me:**
+- ⚡ Fun fact **I started tinkering with computers at a young age, and my fascination with their inner workings has only grown stronger!**
 
-* jyothindrapallikonda@gmail.com
-* [LinkedIn]www.linkedin.com/in/jyothindrapallikonda
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jyothindrapallikonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyothindrapallikonda" height="30" width="40" /></a>
+</p>
 
-** Pronouns:**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-He/Him
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothindrapallikonda&show_icons=true&locale=en&layout=compact" alt="jyothindrapallikonda" /></p>
 
-**⚡ Fun fact:**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyothindrapallikonda&show_icons=true&locale=en" alt="jyothindrapallikonda" /></p>
 
-I started tinkering with computers at a young age, and my fascination with their inner workings has only grown stronger!
-
-**Here are some additional details about my background and skills:**
- ***SIH 2023 FINALIST***
-* **Work Experience:**
-  * Data Science Intern at Henotic Technology (Jun 2023 – Sep 2023)
-  * Cyber Security Intern at Sense Learner Technologies & IBM (Jul 2023 – Sep 2023)
-* **University Projects:**
-  * Developed a Machine Learning based Anomaly Detection System (ADS) for network security.
-
-I'm eager to connect with other passionate individuals and contribute to the ever-evolving world of technology. Let's build something amazing together!
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyothindrapallikonda&" alt="jyothindrapallikonda" /></p>
